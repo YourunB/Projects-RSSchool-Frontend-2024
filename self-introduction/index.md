@@ -1,9 +1,9 @@
 <p>
-  Self introduction video: <a target="_blank" href="https://youtu.be/WEFm2Ha_4Gk">link</a>
+  Self-introduction video: <a target="_blank" href="https://youtu.be/WEFm2Ha_4Gk">link</a>
 </p>
 
 <p>
-  Self introduction text:
+  Self-introduction text:
 
   Hello friend, thanks for watching my video. 
 
