@@ -1,6 +1,6 @@
 <h3>Self-introduction video: <a target="_blank" href="https://www.youtube.com/watch?v=OFzmRJBnhz8">link</a></h3>
 <h3>Self-introduction text: <a target="_blank" href="https://docs.google.com/document/d/1a0cyoCWNkxQknYxZXcdNfuSZFqpL7yHCJR7PPurMg0Y/edit">link</a></h3>
-<h3>Self-introduction duplication of text:</h3>
+<h3>Self-introduction transcript:</h3>
 Hello friend, thanks for watching my video.
 
 Additionally, under this video I will leave links to my CV and my profile on linkedin and github.
